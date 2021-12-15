@@ -1,0 +1,50 @@
+<biblioteca>
+ <cancion nombre = "The Truth">
+  <artista>"Kygo"</artista>
+  <album>"The Truth"</album>
+  <imagen>"\Biblioteca\Imagen\Kygo - The Truth.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Kygo, Valerie Broussard - The Truth.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "A Sky Full Of Star">
+  <artista>"Coldplay"</artista>
+  <album>"Ghost Stories"</album>
+  <imagen>"\Biblioteca\Imagen\Coldplay - A Sky Full Of Stars.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Coldplay - A Sky Full Of Stars.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "Fix You">
+  <artista>"Coldplay"</artista>
+  <album>"XY"</album>
+  <imagen>"\Biblioteca\Imagen\Coldplay - Fix You.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Coldplay - Fix You.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "Paradise">
+  <artista>"Coldplay"</artista>
+  <album>"Mylo Xyloto"</album>
+  <imagen>"\Biblioteca\Imagen\Coldplay - Paradise .png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Coldplay - Paradise.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "Believer">
+  <artista>"Imagine Dragons"</artista>
+  <album>"Evolve"</album>
+  <imagen>"\Biblioteca\Imagen\Imagine Dragons - Believer.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Imagine Dragons - Believer.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "Its time">
+  <artista>"Imagine Dragons"</artista>
+  <album>"Night Vision"</album>
+  <imagen>"\Biblioteca\Imagen\Imagine Dragons - It s Time.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Imagine Dragons - It s Time.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "Firestone">
+  <artista>"Kygo"</artista>
+  <album>"Cloud Nine"</album>
+  <imagen>"\Biblioteca\Imagen\Kygo - Firestone.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Kygo - Firestone ft. Conrad Sewell.mp3"</ruta>
+ </cancion>
+ <cancion nombre = "Stay">
+  <artista>"Kygo"</artista>
+  <album>"Cloud Nine"</album>
+  <imagen>"\Biblioteca\Imagen\Kygo - Stay.png"</imagen>
+  <ruta>"\Biblioteca\Canciones\Kygo - Stay ft. Maty Noyes.mp3"</ruta>
+ </cancion>
+</biblioteca>
