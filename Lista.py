@@ -1,4 +1,5 @@
 
+from tkinter.constants import N
 from Nodo import Nodo
 
 class Lista(Nodo):
@@ -6,7 +7,12 @@ class Lista(Nodo):
         super().__init__()
         self.cabeza = Nodo()
         self.contador = 0
-        
+
+    def vacia(self):
+        if self.cabeza == None:
+            return True
+        else:
+            return False    
     def append(self, nuevo_nodo):
         nodo = self.cabeza
         while(nodo.siguiente):
@@ -14,7 +20,6 @@ class Lista(Nodo):
         nodo.siguiente = nuevo_nodo
         self.contador += 1
         
-
     def get(self, i):
         if (i >= self.contador):
             return None
