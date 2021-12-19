@@ -10,4 +10,3 @@ class Biblioteca(Lista):
         self.imagen = imagen
         self.ruta =ruta
         super().__init__()
-        
